@@ -1,0 +1,5 @@
+{
+  "name": "Pro Physics Football",
+  "description": "A physics-based 2D football game with local multiplayer and smooth canvas animations.",
+  "requestFramePermissions": []
+}
